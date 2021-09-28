@@ -1,0 +1,6 @@
+*-transaction
+mint-policy
+address/*
+protocol.json
+!address/*-cli*
+!address/stake.addr
